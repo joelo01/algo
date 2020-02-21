@@ -1,0 +1,33 @@
+<style>
+	body{
+		background-color: skyblue;
+	}
+	div{
+		background-color: #D3D3D3;
+		border: 1px solid blue;
+		padding: 12px;
+		width: 70%;
+		margin: 0 auto;
+	}
+	fieldset{
+		margin-bottom: 12px;
+	}
+	legend{
+		background-color: #778899;
+		padding: 5px ;
+		border-radius: 20px;
+		font-weight: bold;
+	}
+	img{
+		margin-bottom: 12px;
+		float: left;
+		margin-right: 30px
+	}
+	span{
+		font-weight: bold;
+	}
+
+	li{
+		 font-style: italic;
+	}
+</style>
